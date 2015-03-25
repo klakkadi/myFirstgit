@@ -1,3 +1,4 @@
+
 #include<stdio.h>
 
 main()
@@ -9,3 +10,4 @@ main()
    c=a+b;
    printf("the sum of two values is:%d",c);
    }
+  /*  modified by klakkadi  
