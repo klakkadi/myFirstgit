@@ -1,0 +1,31 @@
+    1  git config --global user.name "keerthy"
+    2  git config --global user.email keerthyreddy91@gmail.com
+    3  mkdir myFirst
+    4  ls
+    5  cd myFirst/
+    6  emacs hello.c
+    7  vi hello.c
+    8  clear
+    9  git init
+   10  ls
+   11  git status 
+   12  clear
+   13  git add
+   14  git add .
+   15  git status 
+   16  clear
+   17  git commit
+   18  ls
+   19  git status
+   20  vi hello.c
+   21  git status
+   22  git add .
+   23  git commit
+   24  git commit
+   25  clear
+   26  git status
+   27  git remote add origin https://github.com/klakkadi/myFirstgit.git
+   28  git push origin master
+   29  git pull origin master
+   30  history
+   31  history>myHistory
